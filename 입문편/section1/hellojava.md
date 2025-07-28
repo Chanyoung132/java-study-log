@@ -12,10 +12,13 @@
 - {}이 시작되고 끝날 때마다 들여쓰기를 하는것이 관례, 탭을 사용하면 된다.
 - 프로그램은 메인을 시작으로 위에서 아래로 순서대로 실행된다
 
-## 🧪 내가 작성한 예제 코드
+##  내가 작성한 예제 코드
 ```java
 public static void main(String[] args) {
         System.out.println("hello java1");
         System.out.println("hello java2");
         System.out.println("hello java3");
     }
+```
+## 느낀 점
+이미 알고있는 것들이지만 처음부터 쌓아간다는 느낌으로 열심히 하려한다.
